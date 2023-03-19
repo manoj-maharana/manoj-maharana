@@ -25,7 +25,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💬 ask me about anything, i am happy to help;
 
-<h3 align="left">Connect with me: maharana.2@iitj.ac.in</h3>
+
 <p align="left">
 </p>
 
