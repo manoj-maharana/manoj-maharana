@@ -6,9 +6,7 @@
 <a href="https://twitter.com/Manoj_maharana">
   <img align="left" alt="Manoj Maharana | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/manoj-iitj/">
-  <img align="left" alt="Manoj's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
+
 
 
 
