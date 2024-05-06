@@ -2,6 +2,9 @@
 <a href="https://www.instagram.com/manoj.maharana/">
   <img align="left" alt="Manoj's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+<a href="https://medium.com/@manoj-maharana4">
+  <img align="left" alt="Manoj's Medium" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioc8t-kz9N1S8zTuXQnmfBNCBVkT6c5MBKpl8mr_tig&s" />
+</a>
 
 
 
