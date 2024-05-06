@@ -3,9 +3,7 @@
   <img align="left" alt="Manoj's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://twitter.com/Manoj_maharana">
-  <img align="left" alt="Manoj Maharana | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
-</a>
+
 
 
 
